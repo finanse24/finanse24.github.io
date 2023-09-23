@@ -1,7 +1,7 @@
 ---
 title: "The 1st Workshop on Software Engineering Challenges in Financial Firms (FinanSE)"
 layout: splash
-permalink: /organizers
+permalink: /call_for_papers
 header:
   overlay_image: "/assets/images/icse2024_white_background_logo.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
