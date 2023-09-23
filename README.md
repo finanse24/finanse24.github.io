@@ -1,3 +1,3 @@
-# kdf2022
-website for KDF 2022
+# FinanSE 2024
+website for FinanSE 2024 @ ICSE
 
