@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "ICSE '24 FinanSE"
 title_separator          : "-"
 subtitle                 : 
-name                     : "KDF" # &name is a YAML anchor which can be *referenced later
+name                     : "FinanSE" # &name is a YAML anchor which can be *referenced later
 description              : "Home for the FinanSE Workshop"
 url                      : https://finanse24.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
