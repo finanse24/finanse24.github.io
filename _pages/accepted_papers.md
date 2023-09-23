@@ -1,12 +1,11 @@
 ---
-title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The 1st Workshop on Software Engineering Challenges in Financial Firms (FinanSE)"
 layout: splash
 permalink: /accepted_papers
 classes: wide
 header:
-  overlay_image: "/assets/images/home_splash_nyc.png"
+  overlay_image: "/assets/images/icse2024_white_background_logo.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Accepted Papers<br/>"
 ---
 <h2>List of Accepted Papers</h2>
 TBD
