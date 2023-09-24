@@ -5,9 +5,8 @@ permalink: /program_committee
 header:
   overlay_image: "/assets/images/icse2024_white_background_logo.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Program Committee<br/>"
 ---
-
+<h2>Program Committee</h2>
 
 Lin Tan (Purdue University, USA)<br>
 Federica Sarro (University College London, UK)<br>

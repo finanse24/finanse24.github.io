@@ -5,8 +5,8 @@ permalink: /organizers
 header:
   overlay_image: "/assets/images/icse2024_white_background_logo.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>FinanSE Organizing Committee<br/>"
 ---
+<h2>FinanSE Organizrs</h2>
 
 <h3>Vali Tawosi</h3>
 <strong>AI Research Scientist, J.P. Morgan AI Research</strong><br>

@@ -6,7 +6,6 @@ permalink: /
 header:
   overlay_image: "/assets/images/icse2024_white_background_logo.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Introduction"
 ---
 
 <h2>Introduction</h2>
