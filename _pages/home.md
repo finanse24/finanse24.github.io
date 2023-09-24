@@ -44,8 +44,8 @@ We believe that collaboration between academia and industry is crucial for progr
         </tr>-->             
         <tr>
             <td>Workshop</td>
-            <td>Thursday</td>
-            <td>July 27, 2023</td>
+            <td>TBD</td>
+            <td>TBD</td>
         </tr>   
     </tbody>
 </table>
