@@ -18,7 +18,7 @@ We believe that collaboration between academia and industry is crucial for progr
 
 
 <h2>Registration</h2>
-
+TBD
 
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
@@ -28,12 +28,10 @@ We believe that collaboration between academia and industry is crucial for progr
         <tr>
             <td>Submission Deadline</td>
             <td>Thu 9 Nov 2023</td>
-            </td>
         </tr> 
         <tr>
             <td>Submission Notification Date</td>
             <td>Thu 21 Dec 2023</td>
-            </td>
         </tr> 
         <!--<tr>
             <td>SIGIR-23 Registration Deadline</td>
