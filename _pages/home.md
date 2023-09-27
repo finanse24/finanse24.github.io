@@ -27,14 +27,12 @@ We believe that collaboration between academia and industry is crucial for progr
     <tbody>
         <tr>
             <td>Submission Deadline</td>
-            <td>TBD</td>
-            <td>TBD<br>
+            <td>Thu 9 Nov 2023</td>
             </td>
         </tr> 
         <tr>
             <td>Submission Notification Date</td>
-            <td>TBD</td>
-            <td>TBD<br>
+            <td>Thu 21 Dec 2023</td>
             </td>
         </tr> 
         <!--<tr>
@@ -43,9 +41,8 @@ We believe that collaboration between academia and industry is crucial for progr
             <td>TBD</td>
         </tr>-->             
         <tr>
-            <td>Workshop</td>
-            <td>TBD</td>
-            <td>TBD</td>
+            <td>Camera Ready Deadline</td>
+            <td>Thu 25 Jan 2024</td>
         </tr>   
     </tbody>
 </table>
