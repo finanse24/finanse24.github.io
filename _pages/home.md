@@ -14,10 +14,10 @@ Financial firms began automating processes as early as the 1960s, and as such, m
 
 The motivation behind FinanSE is to provide the SE community in both industry and academia with a unique opportunity to discuss such challenges and work in collaboration towards effective solutions. Therefore, FinanSE'24 welcomes research papers presenting:
 
-- original and innovative ideas to resolve software engineering challenges in financial firms
-- open research problems to pursue
-- empirical studies conducted with real-world data
-- experience reports, case studies, and tool demonstrations
+- Original and innovative ideas to resolve software engineering challenges in financial firms
+- Open research problems to pursue
+- Empirical studies conducted with real-world data
+- Experience reports, case studies, and tool demonstrations
 
 
 <h2>Registration</h2>

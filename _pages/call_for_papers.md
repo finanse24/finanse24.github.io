@@ -24,7 +24,7 @@ FinanSE'24 invites submissions of original contributions on methods, theories, a
 
 <h2>Submissions</h2>
 
-Submission link : https://finanse24.hotcrp.com/
+Submission link : [https://finanse24.hotcrp.com/](https://finanse24.hotcrp.com/)
 
 This workshop accepts both research papers and extended abstracts:
 - Research papers (8 pages max, including text, figures, tables, references, and appendix) on novel approaches, tools, datasets, or studies.
