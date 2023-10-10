@@ -9,7 +9,7 @@ header:
 
 <h2>Call for Papers</h2>
 
-We invite submissions of original contributions on methods, theories, applications, and systems on software engineering, with a focus on *Software Engineering Challenges in Financial Domain*. The scope of the workshop includes, but is not limited to, the following areas:
+FinanSE'24 invites submissions of original contributions on methods, theories, applications, and systems on software engineering, with a focus on *Software Engineering Challenges in Financial Domain*. The scope of the workshop includes, but is not limited to, the following areas:
 
 - Software system monitoring and analytics
 - Search-based software engineering and optimisation 
@@ -24,4 +24,10 @@ We invite submissions of original contributions on methods, theories, applicatio
 
 <h2>Submissions</h2>
 
-TBD
+Submission link : https://finanse24.hotcrp.com/
+
+This workshop accepts both research papers and extended abstracts:
+- Research papers (8 pages max, including text, figures, tables, references, and appendix) on novel approaches, tools, datasets, or studies.
+- Extended abstracts (2 pages max, including text, figures, tables, references, and appendix) on novel ideas and preliminary results that have yet to be fully developed.
+
+All papers will be submitted via HotCRP. FinanSE'24 will follow a double-blinded review process. The submission should comply with the ACM format (in line with ICSE 2024) and should present the original contribution. At least one author of each accepted paper should register for the workshop and present the paper in the workshop.
