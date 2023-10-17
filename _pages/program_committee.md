@@ -17,4 +17,4 @@ Hector Menendes (King's College London, UK)<br>
 Jie M. Zhang (King's College London, UK)<br>
 Yulong Pei (JP Morgan AI Research, UK)<br>
 Vali Tawosi (JP Morgan AI Research, UK)<br>
-Ran Zmigrod (JP Morgan AI Research, USA)<br>
+Ran Zmigrod (JP Morgan AI Research, UK)<br>
