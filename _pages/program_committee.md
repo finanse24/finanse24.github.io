@@ -8,13 +8,13 @@ header:
 ---
 <h2>Program Committee</h2>
 
-Lin Tan (Purdue University, USA)<br>
-Federica Sarro (University College London, UK)<br>
-Salwa Alamir (JP Morgan AI Research, UK)<br>
-Petr Babkin (JP Morgan AI Research, USA)<br>
-Max Hort (Simula Research Laboratory, Norway)<br>
-Hector Menendes (King's College London, UK)<br>
-Jie M. Zhang (King's College London, UK)<br>
-Yulong Pei (JP Morgan AI Research, UK)<br>
-Vali Tawosi (JP Morgan AI Research, UK)<br>
-Ran Zmigrod (JP Morgan AI Research, UK)<br>
+<a href="https://www.cs.purdue.edu/homes/lintan/">Lin Tan (Purdue University, USA)</a><br>
+<a href="http://www0.cs.ucl.ac.uk/staff/f.sarro/">Federica Sarro (University College London, UK)</a><br>
+<a href="https://www.linkedin.com/in/salwa-alamir/?originalSubdomain=uk">Salwa Alamir (JP Morgan AI Research, UK)</a><br>
+<a href="https://dblp.org/pid/161/0027.html">Petr Babkin (JP Morgan AI Research, USA)</a><br>
+<a href="https://maxhort.github.io/">Max Hort (Simula Research Laboratory, Norway)</a><br>
+<a href="https://www.kcl.ac.uk/people/hector-menendez">Héctor Menendez (King's College London, UK)</a><br>
+<a href="https://sites.google.com/view/jie-zhang/home">Jie M. Zhang (King's College London, UK)</a><br>
+<a href="https://ylpei.github.io/">Yulong Pei (Eindhoven University of Technology, Netherlands)</a><br>
+<a href="https://vtawosi.github.io/">Vali Tawosi (JP Morgan AI Research, UK)</a><br>
+<a href="https://scholar.google.com/citations?user=OUt5mt4AAAAJ&hl=en">Ran Zmigrod (JP Morgan AI Research, UK)</a><br>

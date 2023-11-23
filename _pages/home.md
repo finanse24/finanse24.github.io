@@ -12,16 +12,14 @@ Software development has an integral role in every financial organisation; indee
 
 Financial firms began automating processes as early as the 1960s, and as such, must maintain large legacy systems which may host critical operations. This problem is further exacerbated by the numerous mergers and acquisitions common in the financial sector, which leaves firms with a set of heterogeneous legacy systems that need to communicate with one another effectively and efficiently. Therefore, maintaining these systems while modernizing them leads to intriguing challenges, spanning from model extraction and process optimisation, to code-translation. Moreover, highly regulated institutions like financial firms require a high degree of transparency and accountability. This requirements facilitates the need for model fairness and explanability for any SE solution, in particular those that rely on AI.
 
+AI has transformed software engineering methodologies and practices. In the era of GenAI, there is a strong appetite for automation of software development and maintenance in a far greater level than we have imagined before. Therefore, we encourage creative and novel ideas to utilize the currently available methods and/or GenAI to improve the state-of-the-art in software development and maintenance industry.
+
 The motivation behind FinanSE is to provide the SE community in both industry and academia with a unique opportunity to discuss such challenges and work in collaboration towards effective solutions. Therefore, FinanSE'24 welcomes research papers presenting:
 
 - Original and innovative ideas to resolve software engineering challenges in financial firms
 - Open research problems to pursue
 - Empirical studies conducted with real-world data
 - Experience reports, case studies, and tool demonstrations
-
-
-<h2>Registration</h2>
-TBD
 
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
@@ -45,9 +43,18 @@ TBD
             <td>Camera Ready Deadline</td>
             <td>Thu 25 Jan 2024</td>
         </tr>   
+        <tr>
+            <td>Workshop</td>
+            <td>Tue 16 Apr 2024</td>
+        </tr>   
     </tbody>
 </table>
 </center>
+
+
+<h2>Registration</h2>
+TBD
+
 
 <h2 id='contact'>Contact Information</h2>
 We look forward to seeing you in FinanSE@ICSE2024! For general inquiries about FinanSE, please write to <kbd>icse.finanse@outlook.com</kbd>.
