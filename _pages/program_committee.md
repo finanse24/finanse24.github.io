@@ -10,7 +10,7 @@ header:
 
 <a href="https://www.cs.purdue.edu/homes/lintan/">Lin Tan (Purdue University, USA)</a><br>
 <a href="http://www0.cs.ucl.ac.uk/staff/f.sarro/">Federica Sarro (University College London, UK)</a><br>
-<a href="https://www.linkedin.com/in/salwa-alamir/?originalSubdomain=uk">Salwa Alamir (JP Morgan AI Research, UK)</a><br>
+<a href="https://scholar.google.com/citations?user=ty1sZH4AAAAJ">Salwa Alamir (JP Morgan AI Research, UK)</a><br>
 <a href="https://dblp.org/pid/161/0027.html">Petr Babkin (JP Morgan AI Research, USA)</a><br>
 <a href="https://maxhort.github.io/">Max Hort (Simula Research Laboratory, Norway)</a><br>
 <a href="https://www.kcl.ac.uk/people/hector-menendez">Héctor Menendez (King's College London, UK)</a><br>
