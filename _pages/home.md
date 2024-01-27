@@ -54,7 +54,7 @@ The motivation behind FinanSE is to provide the SE community in both industry an
 
 <h2>Registration</h2>
 
-Please register via ICSE 2024 registration portal: https://conf.researchr.org/attending/icse-2024/registration
+Please register via ICSE 2024 registration portal: [https://conf.researchr.org/attending/icse-2024/registration](https://conf.researchr.org/attending/icse-2024/registration)
 
 At least one author per accepted paper must register and attend the workshop to present their paper.
 
