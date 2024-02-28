@@ -93,4 +93,4 @@ The FinanSE'24 workshop is co-located with ICSE'24 conference in Lisbon, Portuga
 </table>
 </center>
 
-Looking forward to meeting you at the FinanSE'24 workshop!
+Looking forward to seeing you at the FinanSE'24 workshop!
