@@ -10,7 +10,7 @@ header:
 
 <h3>Vali Tawosi</h3>
 <strong>AI Research Scientist, J.P. Morgan AI Research</strong><br>
-Vali Tawosi is an AI Researcher at JP Morgan Chase. He has received his PhD from the Department of Computer Science at UCL (University College London). Vali's research interest includes SBSE (Search-Based Software Engineering), software analytics, and predictive models for software engineering. 
+Vali Tawosi is an AI Research Lead at JP Morgan Chase. He has received his PhD from the Department of Computer Science at UCL (University College London). Vali's research interest includes SBSE (Search-Based Software Engineering), software analytics, and predictive models for software engineering. 
 <!-- He has published several research papers in top SE venues including TSE, JSS, ESEM, MSR and SANER. Vali has also served as student volunteer for ICSE'21, junior program committee for MSR'23, co-chair to the challenge track at SSBSE'23, and is on the program committee of the SANER'24 conference. -->
 
 <h3>Salwa Alamir</h3>
