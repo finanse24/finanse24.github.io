@@ -7,6 +7,11 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 ---
 
+The FinanSE'24 workshop is co-located with ICSE'24 conference in Lisbon, Portugal, on April 16th, 2024.
+
+- Long papers are expected to prepare a 20 minutes talk and 5 minutes will be allocated to questions and answers on the paper and presentation.
+- Short papers are expected to prepare a 10 minutes talk and 5 minutes will be allocated to questions and answers on the paper and presentation.
+
 <h2>Program Schedule</h2>
 <center>
 <table>
@@ -87,3 +92,5 @@ header:
 </tbody>
 </table>
 </center>
+
+Looking forward to meeting you at the FinanSE'24 workshop!
