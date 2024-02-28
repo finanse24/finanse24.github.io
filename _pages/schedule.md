@@ -17,8 +17,8 @@ The FinanSE'24 workshop is co-located with ICSE'24 conference in Lisbon, Portuga
 <table>
 <colgroup>
     <col width="10%" />
-    <col width="70%" />
-    <col width="18%" />
+    <col width="60%" />
+    <col width="30%" />
 </colgroup>
 <thead>
     <tr class="header">
